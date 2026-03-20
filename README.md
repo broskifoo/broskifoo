@@ -1,4 +1,4 @@
-# Hi there, I'm Aryendra Pandey! 👋
+# Hi there, I'm Aryendra Pandey! 
 
 ### Full-Stack Developer | AI/ML Enthusiast | Hardware Engineer
 
