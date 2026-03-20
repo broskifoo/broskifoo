@@ -1,6 +1,6 @@
 # Hi there, I'm Aryendra Pandey! 👋
 
-### Full-Stack Developer | Cybersecurity Enthusiast | Hardware Engineer
+### Full-Stack Developer | AI/ML Enthusiast | Hardware Engineer
 
 I am a passionate developer who enjoys building at the intersection of software and hardware. From real-time malware detection systems to AI-powered travel planners and multimodal image generators, I love turning complex ideas into functional products.
 
