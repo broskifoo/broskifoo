@@ -1,4 +1,4 @@
-# Hi there, I'm Aryendra Pandey! ðŸ‘‹
+# Hi there, I'm Aryendra Pandey! 👋
 
 ### Full-Stack Developer | Cybersecurity Enthusiast | Hardware Engineer
 
@@ -6,7 +6,7 @@ I am a passionate developer who enjoys building at the intersection of software 
 
 ---
 
-### ðŸ› ï¸ Technical Skills
+### 🛠️ Technical Skills
 
 - **Languages:** Python, C++, JavaScript, ARM Assembly
 - **Web Technologies:** FastAPI, Next.js, TypeScript, Tailwind CSS, HTML/CSS
@@ -16,7 +16,7 @@ I am a passionate developer who enjoys building at the intersection of software 
 
 ---
 
-### ðŸš€ Featured Software Projects
+### 🚀 Featured Software Projects
 
 #### [NeuroSentry](https://github.com/broskifoo/Neurosentry)
 AI-powered real-time cyber threat detection pipeline.
@@ -35,7 +35,7 @@ High-speed multimodal AI wallpaper generator.
 
 ---
 
-### ðŸ”Œ Hardware & Analog Projects
+### 🔌 Hardware & Analog Projects
 
 - **Dual Axis Solar Tracker:** LDR and LM324 comparator-based system achieving 40-45% efficiency improvement.
 - **Sound Detector System:** Analog circuit using LM324 and 741 op-amps with threshold-based triggering.
@@ -43,19 +43,19 @@ High-speed multimodal AI wallpaper generator.
 
 ---
 
-### ðŸ“Š GitHub Stats
+### 📊 GitHub Stats
 
 ![Aryendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=broskifoo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broskifoo&layout=compact&theme=radical)
 
 ---
 
-### ðŸ“« Connect with Me
+### 📫 Connect with Me
 
-- ðŸ“§ Email: [pandeyaryendra76@gmail.com](mailto:pandeyaryendra76@gmail.com)
-- ðŸ”— LinkedIn: [Aryendra Pandey](https://www.linkedin.com/in/aryendra-pandey)
-- ðŸ“± Phone: +91-9109875121
+- 📧 Email: [pandeyaryendra76@gmail.com](mailto:pandeyaryendra76@gmail.com)
+- 🔗 LinkedIn: [Aryendra Pandey](https://www.linkedin.com/in/aryendra-pandey)
+- 📱 Phone: +91-9109875121
 
 ---
 
-*â€œTurning code into hardware and hardware into intelligence.â€*
+*“Turning code into hardware and hardware into intelligence.”*
